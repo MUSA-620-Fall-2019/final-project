@@ -26,7 +26,7 @@ The final deliverable **must include all three of the below items**:
 
 The materials for steps #2 an #3 above should be submitted to your own specific GitHub repository, which can be created using the link below:
 
-https://classroom.github.com/g/b0HnnsVF
+https://classroom.github.com/g/cQQU9eCr
 
 ### Important
 
@@ -35,22 +35,31 @@ https://classroom.github.com/g/b0HnnsVF
 
 ## Guidelines
 
-The project is open-ended. The topic and technologies used are up to you. However, the it must satisfy **at least two of the items below**:
+The project is open-ended. The topic and technologies used are up to you.
+However, the it must satisfy **at least two of the items below**:
 
 - Data is collected through a means more sophisticated than downloading (e.g. scraping, API).
 - At least one of the datasets contains more than 1,000,000 rows.
 - It combines data collected from 3 or more different sources.
-- The analysis of the data is reasonably complex, involving multiple steps (geospatial joins/operations, data shaping, data frame operations, etc).
-- You use one of the analysis techniques for urban street networks (e.g., osmnx, pandana) or clustering (e.g., scikit-learn)
+- The analysis of the data is reasonably complex, involving multiple steps
+  (geospatial joins/operations, data shaping, data frame operations, etc).
+- You use one of the analysis techniques for urban street networks (e.g., osmnx, pandana), clustering (e.g., scikit-learn), or raster datasets
+- You perform a machine learning analysis with scikit-learn as part of the analysis.
 - The webpage includes a significant interactive component (cross-filtering, interactive widgets, etc)
 
 As a rough guideline, you should shoot for something that is 3-4 times as involved as the required assignments.
 
 ## Group projects
 
-Group projects are permitted. You are also permitted to combine this assignment with one you are working on for another course. But keep in mind that if you choose either of these options, the expectations for the project's scope will be adjusted accordingly.
+Group projects are permitted, **with a maximum number of group members of 3**.
+You are also permitted to combine this assignment with one you are working on
+for another course. But keep in mind that if you choose either of these options,
+the expectations for the project's scope will be adjusted accordingly.
 
-If you combine this assignment with one from another course, the portion that you are submitting for this final project must be a clearly defined addition to the original project. In such a case, you will be graded only on the portion submitted for this course, not on the entire project.
+If you combine this assignment with one from another course, the portion that
+you are submitting for this final project must be a clearly defined addition to
+the original project. In such a case, you will be graded only on the portion
+submitted for this course, not on the entire project.
 
 ## Grading
 
